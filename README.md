@@ -1,4 +1,4 @@
-# Project - Facial Keypoint Detection
+# Project - Image Captioning
 
 In this project, I have used the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions
 
